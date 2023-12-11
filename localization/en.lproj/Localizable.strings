@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  localization
+
+  Created by Sherozbek on 09/12/23.
+  
+*/
+"authLabel" = "Auth";
+"loginLabel" = "Login";
+"pswdLabel" = "Password";
+"btnLabel" = "Sign In ";
